@@ -1,1 +1,7 @@
+git clone --mirror 'https://github.com/wmxof/Club_Object/tree/main/Calcurator_Hw'
 
+cd Calcurator_Hw.git
+
+git remote set-url --push origin 'https://github.com/wmxof/Club_Object/edit/main/Calcurator_Hw'
+
+git push --mirror
